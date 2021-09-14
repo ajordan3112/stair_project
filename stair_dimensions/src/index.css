@@ -1,0 +1,11 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+.Nav {
+  font-size: 30px;
+  list-style: none;
+}
+body {
+  background-color: rgb(252, 242, 229);
+}
