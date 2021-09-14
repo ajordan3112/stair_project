@@ -20,7 +20,6 @@ const Application = () => {
 }
 
 const style = {
-  marginLeft: '15vw',
   marginTop: '10vh',
   //border: '5px solid red',
 }
